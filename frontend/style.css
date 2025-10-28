@@ -1,0 +1,6 @@
+body { font-family: Arial; margin: 40px; background: #f4f4f4; }
+h1 { color: #333; }
+form { background: #fff; padding: 20px; border-radius: 8px; }
+input, textarea { width: 100%; margin: 10px 0; padding: 10px; }
+button { padding: 10px 20px; background: #0078d4; color: white; border: none; border-radius: 5px; }
+#posts { margin-top: 20px; }
